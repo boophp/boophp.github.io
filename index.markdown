@@ -44,6 +44,6 @@ layout: default
   </ul>
   <div class="divider"></div>
  <ul class="listing main-listing">
-    <li>想再看看其他的？猛击<a href="/archive.html"> MORE POSTS </a> →</li>
+    <li>想再看看其他的？猛击<a href="/tags.html"> MORE POSTS </a> →</li>
   </ul>
 </div>

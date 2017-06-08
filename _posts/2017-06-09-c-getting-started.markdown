@@ -1,6 +1,8 @@
 ---
 title: C语言入门知识
 layout: post
+tags:
+  - 程序语言
 ---
 
 - [C入门（一）]()

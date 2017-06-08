@@ -1,7 +1,7 @@
 ---
 title: 世界是数字的
 layout: post
--tags:
+tags:
     - BOOK
 ---
 

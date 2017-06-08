@@ -6,3 +6,14 @@ markdown: rdiscount
 
 author: "SHENG"
 atom-baseurl: "http://websay.me"
+
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
+  - title: Tags
+    class: fa fa-tags
+    href: /tags.html
+  - title: About
+    class: fa fa-user
+    href: /about.html

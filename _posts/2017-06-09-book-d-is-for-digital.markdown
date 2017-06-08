@@ -1,6 +1,8 @@
 ---
 title: 世界是数字的
 layout: post
+-tags:
+    - BOOK
 ---
 
 ![book_cover](/media/files/2017/06/D_is_for_Digital.jpg)

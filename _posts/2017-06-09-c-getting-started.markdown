@@ -1,8 +1,8 @@
 ---
-title: C语言入门知识
+title: C语言入门系列知识
 layout: post
 tags:
-  - 语言
+  - 技术
 ---
 
 - [C入门（一）]()

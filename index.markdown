@@ -43,7 +43,9 @@ layout: default
   {% endfor %}
   </ul>
   <div class="divider"></div>
-  <ul class="listing main-listing">
+<!-- 
+ <ul class="listing main-listing">
     <li class="listing-seperator"><a href="/archive.html">这里是之前写过的文章</a></li>
   </ul>
+-->
 </div>

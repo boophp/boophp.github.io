@@ -44,6 +44,6 @@ layout: default
   </ul>
   <div class="divider"></div>
   <ul class="listing main-listing">
-    <li class="listing-seperator"><a href="/archive.html">Long long ago</a></li>
+    <li class="listing-seperator"><a href="/archive.html">这里是之前写过的文章</a></li>
   </ul>
 </div>

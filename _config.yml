@@ -6,8 +6,3 @@ markdown: rdiscount
 
 author: "SHENG"
 atom-baseurl: "http://websay.me"
-
-navigations:
-  - title: About
-    class: fa fa-user
-    href: /about.html

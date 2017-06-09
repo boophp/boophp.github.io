@@ -8,4 +8,4 @@ layout: page
 
 工作之余/间，喜欢看书和一些烧脑的影片，很少在社交上活动。所以不用关注我。如果愿意，倒是可以聊聊代码和一些书，很抱歉目前只接受传统的邮件形式，假设你有兴趣，那就 <a href="mailto:sheng@websay.me" target='_blank'>写封邮件</a> 吧。
 
-看完果断回到首页去，猛击 [汪保胜](http://websay.me/) →
+看完果断回到首页去，猛击 [GO BACK](http://websay.me/) →

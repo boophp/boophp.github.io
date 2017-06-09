@@ -1,7 +1,6 @@
 ---
 title: 偶然
 layout: post
-guid: urn:uuid:ffcaf39b-877f-4980-ba2b-0966ca5c4999
 tags:
   - 喜欢
 ---

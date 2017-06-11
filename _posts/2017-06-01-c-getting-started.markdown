@@ -5,7 +5,7 @@ tags:
   - 技术
 ---
 
-- [C入门（一）]()
+- <a href='http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr3s3aC-1cbkR_2e3x_j2FZHxr' target='_blank'>C入门（一）</a>
 - [C入门（二）]()
 - [C入门（三）]()
 - <a href='http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr382MMR2rZkS122DIzv36B5A2' target='_blank'>C入门（四）</a>

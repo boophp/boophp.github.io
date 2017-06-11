@@ -5,4 +5,4 @@ tags:
   - 技术
 ---
 
-- [10分钟让你的站点使用HTTPS](http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr1GImlb0djkgM2lOsxe0qsyDa)
+- <a href='http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr1GImlb0djkgM2lOsxe0qsyDa'>10分钟让你的站点使用HTTPS</a>

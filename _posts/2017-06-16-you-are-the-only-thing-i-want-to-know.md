@@ -8,17 +8,19 @@ tags:
 
 周杰伦 - 七里香<br />
 作词：方文山 作曲：周杰伦<br />
-演唱：周杰伦<br /><br />
+演唱：周杰伦<br />
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=133998&auto=1&height=66"></iframe>
 
 窗外的麻雀 在电线杆上多嘴<br />
 妳说这一句 很有夏天的感觉<br />
 手中的铅笔 在纸上来来回回<br />
-我用几行字形容妳是我的谁<br /><br />
+我用几行字形容妳是我的谁<br />
 
 秋刀鱼的滋味 猫跟妳都想了解<br />
 初恋的香味就这样被我们寻回<br />
 那温暖的阳光 像刚摘的鲜艳草莓<br />
-你说妳舍不得吃掉这一种感觉<br /><br />
+你说妳舍不得吃掉这一种感觉<br />
 
 雨下整夜 我的爱溢出就像雨水<br />
 院子落叶 跟我的思念厚厚一叠<br />

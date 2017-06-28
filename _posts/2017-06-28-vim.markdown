@@ -5,4 +5,5 @@ tags:
   - 工具
 ---
 
+- [常用配置]()
 - [vim常用命令](http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr0IRhkT10NkN22dXY1a1sjvVq)

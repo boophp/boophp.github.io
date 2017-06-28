@@ -5,8 +5,7 @@ tags:
  - 学习
 ---
 
-
-vim 工具的基本操作不断更新，根据自己使用情况而补充。以下是我在开发和看源码的过程中使用vim编辑器时的基本配置。
+本章节所汇聚的工具，是自己在工作和学习中经常用到的，其中很多的配置比较简单，是因为这些配置满足了我的开发和学习。当然，更多的配置会根据工作遇到问题慢慢完善。此章节不断完善中...
 
 - [VIM](http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr0IRhkT10NkN22dXY1a1sjvVq)
 - [Ctags配合vim使用](http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr0ibJW43WG4CU2OKO3w0HZ50B)

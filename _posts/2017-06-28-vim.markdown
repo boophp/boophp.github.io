@@ -5,7 +5,7 @@ tags:
   - 工具
 ---
 
-vim 工具的基本操作不断更新，根据自己使用情况而补充。以下是我在开发和看源码的过程中使用vim编辑器时的基本配置
+vim 工具的基本操作不断更新，根据自己使用情况而补充。以下是我在开发和看源码的过程中使用vim编辑器时的基本配置。
 
 - [vim常用配置](http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr04wqpj2vTA9k2Wi8C02pTCMk)
 - [vim常用命令](http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr0IRhkT10NkN22dXY1a1sjvVq)

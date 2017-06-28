@@ -1,10 +1,10 @@
 ---
-title: TAGS
+title: 医生生病了
 layout: page
 ---
 <ul class="listing">
 {% for tag in site.tags %}
-  <li id="{{ tag[0] }}">{{ tag[0] }}</li>
+  <li style="font-weight:bold;font-size:16px" id="{{ tag[0] }}">{{ tag[0] }}</li>
 {% for post in tag[1] %}
   <li class="listing-item">
   <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>

@@ -11,3 +11,4 @@ tags:
 - [利用ctags配合vim使用](http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr0ibJW43WG4CU2OKO3w0HZ50B)
 - [PHPStorm的常用配置和快捷键]()
 - [使用ab进行页面的压力测试](http://09a57d2a.wiz03.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr03Kn8T0K5ALR2EdH9l00YAFp)
+- [SSH免密登录阿里云服务器](http://09a57d2a.wiz03.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr0DIwkA2ETAdW21saq63cxQ7Z)

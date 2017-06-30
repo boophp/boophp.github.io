@@ -14,3 +14,4 @@ tags:
 - <a href='http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr37Kz0B0tU4i52IX8B61DCEtm' target='_blank'>C入门（七）</a>
 - <a href='http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr0V4NbS0FhQUB2Si2hR3eWzJf' target='_blank'>C入门（八）</a>
 - <a href='http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr0X2G3539UAyU2gtZLC1BhkVu' target='_blank'>C入门（九）</a>
+- <a href='http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr1GImlb0djkgM2lOsxe0qsyDa' target='_blank'>10分钟让你的站点使用HTTPS</a>

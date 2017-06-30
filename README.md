@@ -1,5 +1,3 @@
-Feel free to fork.
-Please keep the link in the bottom.
+# 博客
 
-The like button is currently for personal use and would not work on any other domain.
-Please delete all the lines between `<!-- BEGIN this would not work on any other domain -->` and `<!-- END this would not work on any other domain -->`
+日常学习工作日志记录

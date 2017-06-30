@@ -1,10 +1,10 @@
 ---
-title: windows日常操作记录整理
+title: windows日常操作记录
 layout: post
 tags:
  - 学习
 ---
 
-本章节所汇聚的是笔者在使用windows电脑的时候遇到的问题，并通过搜索解决问题后记录下来的，也是为了自己让日后不会犯同样的错。此章节不断完善中(希望对你的学习和使用有些帮助)...
+本章节所汇聚的是笔者在使用windows电脑的时候遇到的问题，并通过搜索解决问题后记录下来的，也是为了自己让日后不会犯同样的错。此章节不断完善中(希望对你的学习和使用有些帮助) :(
 
 - [chrome书签误删恢复](http://09a57d2a.wiz03.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr3aBPES2aN4HA2MlDhS3Wv1-F)

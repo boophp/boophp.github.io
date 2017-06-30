@@ -1,5 +1,5 @@
 ---
-title: windows日常操作记录
+title: windows
 layout: post
 tags:
  - 学习

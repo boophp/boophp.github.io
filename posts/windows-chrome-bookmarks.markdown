@@ -14,4 +14,4 @@ Bookmarks.bak
 将 `Bookmarks.bak` 改名为 `Bookmarks`
 ```
 
-##### `重启`浏览器即可恢复
+##### **重启**浏览器即可恢复

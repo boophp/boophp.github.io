@@ -7,9 +7,28 @@ tags:
 
 本章节所汇聚的工具，是自己在工作和学习中经常用到的，其中很多的配置比较简单，是因为这些配置满足了我的开发和学习。当然，更多的配置会根据工作遇到问题慢慢完善。此章节不断完善中(希望对你的学习和使用有些帮助) :(
 
+# 编辑器相关工具（只介绍vim、phpstorm）
+
+配置属于你自己的编辑器，让你在工作和学习中都能享受属于自己编辑器所带来的快乐
+
 - [vim的常用配置和命令操作](http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr0IRhkT10NkN22dXY1a1sjvVq)
 - [利用ctags配合vim使用](http://fromwiz.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr0ibJW43WG4CU2OKO3w0HZ50B)
-- [利用git bash作为windows平台shell工具](https://git-for-windows.github.io/)
 - [PHPStorm的常用配置和快捷键]()
+
+# 与git相关的工具
+- [利用git bash作为windows平台shell工具](https://git-for-windows.github.io/)
+- [git使用手册]()
+- [搭建GitLab版本管理]()
+- [github使用手册]()
+
+# 学习和记录工具
+- [Markdown编写你的文档](https://www.zybuluo.com/mdeditor)
+- [让Xmind整理你的思维](http://www.xmindchina.net/xiazai.html)
+- [Wiz云笔记工具](http://wiz.cn/download.html)
+
+
+# 服务器相关工具
 - [使用ab进行页面的压力测试](http://09a57d2a.wiz03.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr03Kn8T0K5ALR2EdH9l00YAFp)
 - [SSH免密登录阿里云服务器](http://09a57d2a.wiz03.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr0DIwkA2ETAdW21saq63cxQ7Z)
+- [利用xhprof监控PHP应用性能监控分析]()
+- [让你的xhprof界面更漂亮，功能更强大]()

@@ -1,6 +1,6 @@
 markdown: rdiscount
 highlighter: pygments
-permalink: /:year/:month/:day/:title.html
+permalink: /:title.html
 name: "医生生病了"
 markdown: rdiscount
 

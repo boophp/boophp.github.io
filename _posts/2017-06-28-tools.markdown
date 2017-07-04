@@ -28,7 +28,7 @@ tags:
 
 
 #### 服务器相关工具
-- [使用ab进行页面的压力测试](http://09a57d2a.wiz03.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr03Kn8T0K5ALR2EdH9l00YAFp)
+- [使用ab进行页面的压力测试](/posts/tools-server-ab.html)
 - [SSH免密登录阿里云服务器](http://09a57d2a.wiz03.com/share/s/09FnQG0uDkMA2tyWxz1kLdUr0DIwkA2ETAdW21saq63cxQ7Z)
 - [利用xhprof监控PHP应用性能监控分析]()
 - [让你的xhprof界面更漂亮，功能更强大]()

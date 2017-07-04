@@ -4,5 +4,5 @@ permalink: /:title.html
 name: "医生生病了"
 markdown: rdiscount
 
-author: "<a href='/' style='color:#bb2222'>SHENG</a> KEEP CALM AND CODING."
+author: "<a href='/' style='color:#bb2222'>SHENG</a> 阅读、记录、把时间当作朋友."
 atom-baseurl: "http://websay.me"

@@ -1,16 +1,6 @@
 ####  [1. 简介和安装]()
 ab是apache自带的一个很好用的压力测试工具，当安装完apache的时候，就可以在bin下面找到ab。当然，如果是其他web服务器，linux操作系统也可以通过命令安装此工具。
 
-```
-# centos
-yum install ab
-
-# ubuntu
-apt-get install ab
-
-# mac（homebrew方式）
-brew install ab
-```
 
 #### [2. 模拟用户请求]()
 我们可以模拟100个并发用户，对一个页面发送1000个请求

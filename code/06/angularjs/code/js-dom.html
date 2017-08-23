@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>混合代码编写</title>
+</head>
+<body>
+  <input type="text" id="name" placeholder="请输入...">
+  <p>hello, <span id="output"></span></p>
+  <script>
+  ;(function (win, doc, undefined) {
+    var name = doc.querySelector('#name');
+    var output = doc.querySelector('#output');
+    name.addEventListener('keypress', function (e) {
+      var value = this.value;
+
+      output.innerHTML = value;
+    }, false);
+  })(window, document);
+  </script>
+</body>
+</html>

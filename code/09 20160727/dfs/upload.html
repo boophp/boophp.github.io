@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+  <head>
+    <title>Upload File</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+      <div>
+		<form action="upload_success.php" enctype="multipart/form-data" method="POST">
+			<fieldset>
+				<legend>上传图片</legend>
+				<p>
+					<label for="filename">图片</label>
+					<input id="filename" type="file" name="filename" value="" />
+				</p>
+				<p>
+				     <input type="hidden" name="ftype" value="logo" />
+					 <input type="submit" value="上传" />
+				</p>
+			</fieldset>
+		</form>
+	  </div>
+  </body>
+</html>

@@ -1,0 +1,80 @@
+<?php
+
+/**
+ *
+ *
+ * @package
+ * @subpackage
+ */
+class DExcept_Const 
+{
+    const INPUT_EXCEPTION_CODE_NULL = 100001;
+    const INPUT_EXCEPTION_CODE_ERROR_LEN = 100002;
+    const INPUT_EXCEPTION_CODE_INVALID = 100003;
+    const INPUT_EXCEPTION_CODE_NO_RIGHTINPUT = 100004;
+    const INPUT_EXCEPTION_CODE_ERROR_RIGHTINPUT = 100005;
+    const INPUT_EXCEPTION_CODE_ERROR_VALUE = 100006;
+    const INPUT_EXCEPTION_CODE_HAS_KEYWORD = 100007;
+    const INPUT_EXCEPTION_CODE_INPUTTYPE_ERROR = 100008;
+
+    const DB_EXCEPTION_CODE_ERROR = 200000;
+    const DB_EXCEPTION_CODE_INVALID_WHERE = 200001;
+    const DB_EXCEPTION_CODE_INVALID_CONFIG = 200002;
+    const DB_EXCEPTION_CODE_INVALID_KIND = 200003;
+    const DB_EXCEPTION_CODE_INVALID_MASTER = 200004;
+    const DB_EXCEPTION_CODE_INVALID_SLAVE = 200005;
+    const DB_EXCEPTION_CODE_NO_AVAILABLE_DB = 200006;
+    const DB_EXCEPTION_CODE_KIND_NOT_SUPPORTED = 200007;
+
+    const DB_EXCEPTION_CODE_ID_KIND_ERROR = 210001;
+    const DB_EXCEPTION_CODE_ID_TIMEOUT = 210002;
+
+    const DB_EXCEPTION_CODE_GET_DATA_ERROR = 210003;
+
+    const API_EXCEPTION_CODE_INVALID_METHOD = 300001;
+
+    const AUTH_EXCEPTION_CODE_NO_LOGIN = 400000;
+    const AUTH_EXCEPTION_CODE_NO_MEMBER = 400001;
+    const AUTH_EXCEPTION_CODE_NO_ADMIN = 400002;
+    const AUTH_EXCEPTION_CODE_NO_PASS = 400003;
+    const AUTH_EXCEPTION_CODE_HAS_APPLY = 400004;
+    const AUTH_EXCEPTION_CODE_HAS_JOIN = 400005;
+    const AUTH_EXCEPTION_CODE_SIGN_ERROR = 400006;
+    const AUTH_EXCEPTION_CODE_NO_CREATOR = 400007;
+
+
+
+    static $msg_map = array(
+        self::INPUT_EXCEPTION_CODE_NULL => "如下参数为空：",
+        self::INPUT_EXCEPTION_CODE_ERROR_LEN => "如下参数长度不对，%s 长度必须大于 %d   字符小于 %d  字符",
+        self::INPUT_EXCEPTION_CODE_INVALID => "如下参数输入有误：",
+        self::INPUT_EXCEPTION_CODE_NO_RIGHTINPUT => "没有输入身份参数",
+        self::INPUT_EXCEPTION_CODE_ERROR_RIGHTINPUT => "身份参数错误",
+        self::INPUT_EXCEPTION_CODE_ERROR_VALUE => "如下参数大小范围不对,%s 必须大于 %f  小于 %f ",
+        self::INPUT_EXCEPTION_CODE_HAS_KEYWORD => "%s 包含不允许的关键词：%s",
+        self::DB_EXCEPTION_CODE_ERROR => "后台遇到错误:",
+        self::DB_EXCEPTION_CODE_ID_KIND_ERROR => "该ID类型不存在，无法分配ID 类型:%s",
+        self::DB_EXCEPTION_CODE_ID_TIMEOUT => "分配 ID 超时了",
+        self::DB_EXCEPTION_CODE_INVALID_WHERE => "非法的SQL条件",
+        self::DB_EXCEPTION_CODE_INVALID_CONFIG => "错误的数据库配置",
+        self::DB_EXCEPTION_CODE_INVALID_KIND => "错误的表名",
+        self::DB_EXCEPTION_CODE_INVALID_MASTER => "错误的主库配置",
+        self::DB_EXCEPTION_CODE_INVALID_SLAVE => "错误的辅库配置",
+        self::DB_EXCEPTION_CODE_NO_AVAILABLE_DB => "没有可用的服务器",
+        self::API_EXCEPTION_CODE_INVALID_METHOD => "不合法的接口调用：调用方法不存在",
+        self::DB_EXCEPTION_CODE_KIND_NOT_SUPPORTED => "当前业务不支持该数据表",
+        self::DB_EXCEPTION_CODE_GET_DATA_ERROR => "获取如下数据%s失败",
+        self::AUTH_EXCEPTION_CODE_NO_LOGIN => "尚未登录",
+        self::AUTH_EXCEPTION_CODE_NO_MEMBER => "不是成员",
+        self::AUTH_EXCEPTION_CODE_NO_ADMIN => "不是管理员",
+        self::AUTH_EXCEPTION_CODE_NO_PASS => "尚未通过申请",
+        self::AUTH_EXCEPTION_CODE_NO_CREATOR => "不是群主",
+        self::INPUT_EXCEPTION_CODE_INPUTTYPE_ERROR => '输入的数据类型不符合要求',
+        self::AUTH_EXCEPTION_CODE_HAS_APPLY => '您已提交申请，请不要重复提交',
+        self::AUTH_EXCEPTION_CODE_HAS_JOIN => '您已加入群',
+         self::AUTH_EXCEPTION_CODE_SIGN_ERROR => '签名错误',
+    );
+
+}
+
+?>

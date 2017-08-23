@@ -1,0 +1,18 @@
+<script>
+  function Person(name) {
+    this.name = name;
+    this.say = function (a, b, c) {
+      console.log(this.name);
+    }
+  }
+
+  var person = new Person('zhangsan');
+  console.log(person.say());
+
+  var student = {
+    name: 'lilei'
+  };
+
+  person.say.call(student, a, b, c);
+  person.say.apply(student, [a, b, c])
+</script>

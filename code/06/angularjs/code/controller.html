@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+<head>
+  <meta charset="UTF-8">
+  <title>Angular Controller</title>
+</head>
+<body>
+  <div ng-controller="MyController">
+    <h1>计数：{{counter}}</h1>
+    <button ng-click="add(1)">增加1</button>
+    <button ng-click="minus(2)">减少2</button>
+
+    <p>我的名字是: {{person.name}}</p>
+    <p>我的年龄是: {{person.age}}</p>
+    <p>我的身高是: {{person.height}}</p>
+  </div>
+  <script src="angular.min.js"></script>
+  <script src="js/controller.js"></script>
+</body>
+</html>
